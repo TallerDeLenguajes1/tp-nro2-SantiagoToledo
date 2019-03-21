@@ -1,0 +1,9 @@
+¿Puede ver el archivo tp2_1_2.cpp? ¿Por qué?
+
+No, no puedo ver el archivo ya que fue creado en un branch distinto
+y no se vera hasta hacer un merge
+
+
+se puede ver como las dos ramas se desvian
+
+Al hacer el merge las dos ramas se unen
